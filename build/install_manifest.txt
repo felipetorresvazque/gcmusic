@@ -1,0 +1,3 @@
+/usr/bin/gcmusic
+/usr/share/doc/gcmusic/LICENSE
+/usr/share/icons/hicolor/scalable/apps/cl.pipe.gcmusic.svg

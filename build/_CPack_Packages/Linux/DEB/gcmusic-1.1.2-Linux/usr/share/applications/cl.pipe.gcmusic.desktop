@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=GC Music
+GenericName=Reproductor de música
+Comment=Reproductor de música con GTK
+Exec=/usr/bin/gcmusic
+Icon=cl.pipe.gcmusic
+Terminal=false
+Categories=AudioVideo;Audio;Player;GTK;
+Keywords=música;canciones;audio;mp3;flac;
+StartupNotify=true
+StartupWMClass=gcmusic

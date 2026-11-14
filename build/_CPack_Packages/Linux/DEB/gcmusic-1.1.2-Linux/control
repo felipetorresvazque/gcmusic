@@ -1,0 +1,12 @@
+Architecture: amd64
+Depends: gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-ugly | gstreamer1.0-libav, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.52.0), libglibmm-2.68-1t64 (>= 2.77.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-4-1 (>= 4.0.0), libgtkmm-4.0-0 (>= 4.10.0), libsigc++-3.0-0 (>= 3.2.0), libstdc++6 (>= 14), libtag2 (>= 2.0)
+Description: Reproductor de música con GTK
+ GC Music (GTK Claude Music): reproductor de música en C++ con GTK4. Biblioteca por canciones, artistas, álbumes y géneros, cola de reproducción, búsqueda, carátulas y control desde el applet de volumen (MPRIS).
+Maintainer: Pipe <pipe@example.com>
+Package: gcmusic
+Priority: optional
+Recommends: gstreamer1.0-plugins-ugly, gstreamer1.0-libav
+Section: sound
+Version: 1.1.2
+Installed-Size: 444
+

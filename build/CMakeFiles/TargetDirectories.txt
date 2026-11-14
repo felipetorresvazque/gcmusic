@@ -1,0 +1,9 @@
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/gcmusic.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/package.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/package_source.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/edit_cache.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/rebuild_cache.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/list_install_components.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/install.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/install/local.dir
+/home/fvazque/Descargas/gcmusic1.1.2/gcmusic/build/CMakeFiles/install/strip.dir
